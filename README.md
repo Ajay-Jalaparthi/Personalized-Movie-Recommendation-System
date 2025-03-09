@@ -96,14 +96,17 @@ memory usage: 228.5+ K
 ### 1️⃣ Rating Distribution  
 - Analyzes the distribution of user ratings across all movies  
 - Helps understand user preferences and rating tendencies  
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/cee03041-4e28-43d1-b8e6-909345f0f6aa)
+
 
 ### 2️⃣ Most Rated Movies  
 - Identifies movies with the highest number of ratings  
 - Provides insights into popular films in the dataset  
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/609bb901-c29e-4494-8022-bff8bb4c7794)
+
 
 ### 3️⃣ Movie Genre Word Cloud  
 - Generates a word cloud representation of movie genres  
 - Highlights the most common genres in the dataset visually  
-![alt text](image-3.png)"# Personalized-Movie-Recommendation-System" 
+![image](https://github.com/user-attachments/assets/293c6259-e7f1-4dc7-8e64-f124c10a11d2)
+
